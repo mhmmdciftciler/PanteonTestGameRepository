@@ -1,0 +1,7 @@
+-Fare sol tıkı ile hareketler aktif edilir.
+-İlk tıklamadan sonra imlecin yerine göre hareket edilir.
+-Oyun toplam 3 bölümden 4 sahneden oluşuyor. Biri boyama sahnedi, biri anamenü, diğer ikisi de koşu parkuru.
+-Yapay zekalarda anlayamsız bir titreme durumu var. Herşeyi denedim fakat düzelmiyor. Vakit kısıtlı olduğundan bu şekilde kaldı. Çok araştırdım fakat düzelmiyor.
+-Birçok kod dizisinde açıklama var. Neyi ne için yaptım not olarak ekledim. Basit bazı kodlara açıklama yazmaya gerek görmemiş olabilirim.:^)
+-Rekabet olması adına oyuncunun hızını biraz düşük tuttum.
+-Ana menü biraz renkli. Kalıpların dışında bir tasarım olsun istedim. Şekeri olan birini zorlayabilir. :^)
